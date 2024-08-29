@@ -1,0 +1,13 @@
+C:\Users\troyk\source\repos\PROGBICE 2\bin\Debug\PROGBICE 2.exe.config
+C:\Users\troyk\source\repos\PROGBICE 2\bin\Debug\PROGBICE 2.exe
+C:\Users\troyk\source\repos\PROGBICE 2\bin\Debug\PROGBICE 2.pdb
+C:\Users\troyk\source\repos\PROGBICE 2\obj\Debug\PROGBICE 2.csproj.AssemblyReference.cache
+C:\Users\troyk\source\repos\PROGBICE 2\obj\Debug\PROGBICE_2.ApprovalForm.resources
+C:\Users\troyk\source\repos\PROGBICE 2\obj\Debug\PROGBICE_2.Form1.resources
+C:\Users\troyk\source\repos\PROGBICE 2\obj\Debug\PROGBICE_2.Properties.Resources.resources
+C:\Users\troyk\source\repos\PROGBICE 2\obj\Debug\PROGBICE_2.RequestForm.resources
+C:\Users\troyk\source\repos\PROGBICE 2\obj\Debug\PROGBICE 2.csproj.GenerateResource.cache
+C:\Users\troyk\source\repos\PROGBICE 2\obj\Debug\PROGBICE 2.csproj.CoreCompileInputs.cache
+C:\Users\troyk\source\repos\PROGBICE 2\obj\Debug\PROGBICE 2.exe
+C:\Users\troyk\source\repos\PROGBICE 2\obj\Debug\PROGBICE 2.pdb
+C:\Users\troyk\source\repos\PROGBICE 2\obj\Debug\PROGBICE_2.Generate_Report.resources
